@@ -1,4 +1,4 @@
-d2afef2693bcd9b4b5310044083a206b *DESCRIPTION
+555dc83c1a50ebc2cd2e8368a680c0f9 *DESCRIPTION
 2aff10b2cd721473b56d503275dd6997 *LICENSE
 af10b7f4af2379c2c5c05ea20dc32b39 *NAMESPACE
 2d1150c497c6e0bb7b5063d70b365910 *R/attention.R
@@ -9,7 +9,7 @@ a9cb1f9b4d0d779941cea48095915b46 *R/multi_head.R
 afffd6b2e192e3a1fa5a16f9df47e811 *R/row_vars.R
 ff7819271c5106af9dfb9e18ab2edd2f *R/softmax.R
 23c11645bc477e45f8c626d172b2757f *R/transformer.R
-894a4bf88a6db80e2c468d40663ce1da *README.md
+ee8f916543c2a1f41940896b63acb5e8 *README.md
 49391c7f6119950bde00f7f3194ff7de *man/feed_forward.Rd
 2a357517c4a44150f536cf6791e409ed *man/layer_norm.Rd
 3cfb31a0a15a1fd2f5ef683ec82102bb *man/multi_head.Rd
